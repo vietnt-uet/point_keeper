@@ -1,0 +1,12 @@
+Database design:
+
+Player:
+Name
+Gender
+
+A Game Record:
+PlayerId
+Point
+
+A Game
+Many Game record
